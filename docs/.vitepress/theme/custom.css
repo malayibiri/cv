@@ -50,3 +50,21 @@
   font-size: 0.9rem;
   color: var(--vp-c-text-3);
 }
+
+.vp-doc .profile-photo {
+  float: right;
+  width: 140px;
+  height: 140px;
+  margin: 0.25rem 0 1rem 1.75rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+@media (max-width: 640px) {
+  .vp-doc .profile-photo {
+    float: none;
+    display: block;
+    margin: 0 auto 1.25rem;
+  }
+}

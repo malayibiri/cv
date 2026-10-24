@@ -3,12 +3,12 @@ layout: doc
 aside: false
 outline: false
 title: Rafael Martínez Estévez
-description: Profesor e investigador de Ciencia de la Computación e ingeniero de software senior. Pinar del Río, Cuba.
+description: Profesor e investigador de Ciencia de la Computación e ingeniero de software. Pinar del Río, Cuba.
 ---
 
 # Rafael Martínez Estévez
 
-<p class="lead">Profesor e investigador de Ciencia de la Computación · Ingeniero de software senior</p>
+<p class="lead">Profesor e investigador de Ciencia de la Computación · Ingeniero de software</p>
 
 Profesor asistente en la Universidad de Pinar del Río «Hermanos Saíz Montes de Oca» (UPR). Trabajo en el Centro de Recursos para el Aprendizaje y la Investigación (CRAI), donde lidero proyectos de software para la gestión, el monitoreo y la evaluación de la información científica. Administro, además, las revistas científicas y el repositorio institucional de la universidad.
 

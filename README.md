@@ -25,9 +25,10 @@ npm run preview  # previsualiza la compilación
 | `docs/proyectos.md` | Proyectos y repositorios |
 | `docs/publicaciones.md` | Publicaciones y eventos |
 | `docs/contacto.md` | Contacto y descarga del CV |
-| `docs/public/` | PDFs del CV y favicon |
-| `docs/.vitepress/config.mts` | Navegación, metadatos y `base: '/cv/'` |
-| `docs/.vitepress/theme/` | Tema y estilos |
+| `docs/en/` | Versiones en inglés de todas las páginas |
+| `docs/public/` | PDFs del CV, favicon y fotografía de perfil |
+| `docs/.vitepress/config.mts` | Navegación, idiomas, metadatos y `base: '/cv/'` |
+| `docs/.vitepress/theme/` | Tema, estilos y componente de la fotografía |
 
 ## Añadir contenido
 
@@ -36,6 +37,16 @@ npm run preview  # previsualiza la compilación
 
 VitePress genera automáticamente la navegación anterior/siguiente y el índice de la página.
 Si el sitio crece, se puede añadir una `sidebar` en la misma configuración.
+
+## Idiomas
+
+El español es el idioma principal (`docs/`) y el inglés está en `docs/en/`. Ambos locales se
+declaran en `docs/.vitepress/config.mts` y VitePress muestra el selector de idioma en la
+navegación.
+
+Para que el selector y los enlaces entre idiomas funcionen, cada página debe existir en los dos
+directorios con el mismo nombre de archivo (por ejemplo, `docs/sobre-mi.md` y
+`docs/en/sobre-mi.md`), aunque el contenido esté traducido.
 
 ## Despliegue
 

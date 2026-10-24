@@ -1,6 +1,8 @@
 # Sobre mí
 
-Profesor e investigador de Ciencia de la Computación e ingeniero de software senior, con más de 15 años de experiencia en el diseño, construcción y despliegue de plataformas de datos de código abierto.
+<ProfilePhoto alt="Retrato de Rafael Martínez Estévez" />
+
+Profesor e investigador de Ciencia de la Computación e ingeniero de software, con más de 15 años de experiencia en el diseño, construcción y despliegue de plataformas de datos de código abierto.
 
 Desde 2016 trabajo en la Universidad de Pinar del Río «Hermanos Saíz Montes de Oca» (UPR), donde me desempeño como profesor asistente y líder técnico, y desarrollo plataformas de información científica en el Centro de Recursos para el Aprendizaje y la Investigación (CRAI).
 
